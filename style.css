@@ -1,0 +1,25 @@
+nav{
+    font-family: 'Roboto', sans-serif;
+color: aqua;
+text-align:center;
+width: 100%;
+
+
+}
+footer{ font-family: 'Roboto', sans-serif;
+
+}
+#home{
+    font-family: initial;
+    text-align: center;
+}
+#about-me{
+    
+    text-align: center;
+}
+
+#resume ul,#resume li{
+    font-family: 'Roboto', sans-serif;
+}
+
+  
